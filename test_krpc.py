@@ -1,4 +1,11 @@
 #!krpc-env/bin/python3
+
+'''
+First test for KRPC
+
+The script simply do a connexion to KSP and print the version of KRPC
+'''
+
 import krpc
 
 conn = krpc.connect(
