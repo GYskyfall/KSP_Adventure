@@ -1,4 +1,4 @@
-#!krpc-env/bin/python3
+#!python
 
 '''
 First test for KRPC
