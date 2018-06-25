@@ -1,0 +1,4 @@
+Parameter for the blue print export:
+Black: 0.05
+White:0.70
+Gamma: 0.50
