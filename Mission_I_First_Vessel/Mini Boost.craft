@@ -1,8 +1,8 @@
-ship = First Rockets
+ship = Mini Boost
 version = 1.4.3
 description = 
 type = VAB
-size = 1.70972419,3.03346252,1.31446433
+size = 1.70972419,3.03346252,1.31221819
 persistentId = 1830583828
 rot = 0,0,0,0
 missionFlag = Squad/Flags/esa_dark_blue
@@ -1485,7 +1485,6 @@ PART
 	link = GooExperiment_4293918508
 	link = GooExperiment_4293918450
 	link = EngineerChip_4293915198
-	link = EngineerChip_4293915118
 	attN = top,mk1pod_4293924144_0|0.6875|0
 	EVENTS
 	{
@@ -1781,12 +1780,12 @@ PART
 	part = EngineerChip_4293915198
 	partName = Part
 	persistentId = 3769486292
-	pos = 0,13.8993711,0.641287565
+	pos = 0,14.1873188,0.641193569
 	attPos = 0,0,0
-	attPos0 = 0,-0.0080909729,0.641287565
-	rot = 0.707106769,0,0,0.707106888
+	attPos0 = 0,0.279856682,0.641193569
+	rot = 0.707106709,0,0,0.707106948
 	attRot = 0,0,0,1
-	attRot0 = 0.707106769,0,0,0.707106888
+	attRot0 = 0.707106709,0,0,0.707106948
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
@@ -1801,59 +1800,6 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = EngineerChip_4293915118
-	srfN = srfAttach,solidBooster.sm_4293919950
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-	}
-	PARTDATA
-	{
-	}
-	MODULE
-	{
-		name = FlightEngineerModule
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-}
-PART
-{
-	part = EngineerChip_4293915118
-	partName = Part
-	persistentId = 924686665
-	pos = -5.60631399E-08,13.8993711,-0.641287565
-	attPos = 0,0,0
-	attPos0 = -5.60631399E-08,-0.0080909729,-0.641287565
-	rot = -3.09086197E-08,0.707106888,-0.707106769,-3.09086232E-08
-	attRot = 0,0,0,1
-	attRot0 = -3.09086197E-08,0.707106888,-0.707106769,-3.09086232E-08
-	mir = 1,1,1
-	symMethod = Radial
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = 1
-	resPri = 0
-	dstg = 0
-	sidx = -1
-	sqor = -1
-	sepI = -1
-	attm = 1
-	modCost = 0
-	modMass = 0
-	modSize = 0,0,0
-	sym = EngineerChip_4293915198
 	srfN = srfAttach,solidBooster.sm_4293919950
 	EVENTS
 	{
