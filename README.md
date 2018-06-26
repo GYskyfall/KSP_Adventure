@@ -1,4 +1,4 @@
-# KPS_Adventure
+# KSP_Adventure
 Kerbal Space Program automatic exploration program with KRPC and Python
 
 KSP is a wonderfull video game. The KRPC mod allow us to control the games remotely.
