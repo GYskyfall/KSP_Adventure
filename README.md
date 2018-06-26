@@ -9,7 +9,7 @@ The scripts will be written in Python with the krpc module.
 
 Feel free to use the scripts to learn about Python, KSP and Space. All is under GPL Licences. if you improve it please redistribute.
 
-I use KSP 1.4.3 with Python 3.5.2 under Linux.
+I use KSP 1.4.4 with Python 3.5.2 under Linux.
 
 The following modules are added to KSP:
 - Community Resource Pack (CommunityResourcePack 0.10.0.0)
