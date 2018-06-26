@@ -51,7 +51,6 @@ vessel = conn.space_center.active_vessel
 
 # Set the initial flight parameters
 vessel.auto_pilot.target_pitch_and_heading(90, 90)
-vessel.auto_pilot.engage()
 #vessel.control.throttle = 1
 time.sleep(1)
 
@@ -64,6 +63,7 @@ countDown()
 
 # Ignit the solid fuel booster
 print('Ignition!')
+vessel.auto_pilot.engage()
 vessel.control.activate_next_stage()
 
 fuel_amount = conn.get_call(vessel.resources.amount, 'SolidFuel')
