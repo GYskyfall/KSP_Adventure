@@ -19,4 +19,4 @@ The mission is quite simple:
 - Deploy the parachute at 3000m or when the velocity is just bellow the safety velocity to deploy it.
 
 The python code can be found here:
-MissionI.py[MissionI.py](./MissionI.py)
+[Mission_I.py](./Mission_I.py)

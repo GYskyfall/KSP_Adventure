@@ -34,4 +34,4 @@ source krpc-env/bin/activate
 to activate the virtual environment.
 
 List of Mission:
-- Mission I [Mission I](./Mission_I/Mission_I.md) - First flight
+- [Mission I](./Mission_I/Mission_I.md) - First flight
