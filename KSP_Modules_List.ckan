@@ -1,0 +1,47 @@
+{
+	"kind": "metapackage",
+	"abstract": "A list of modules installed on the KSP_linux_1.4.4 KSP instance",
+	"name": "installed-KSP_linux_1.4.4",
+	"license": "unknown",
+	"version": "2018.06.26.08.31.35",
+	"identifier": "installed-KSP_linux_1.4.4",
+	"spec_version": "v1.6",
+	"recommends": [
+		{
+			"name": "kRPC"
+		},
+		{
+			"name": "RealFuels"
+		},
+		{
+			"name": "RemoteTech"
+		},
+		{
+			"name": "ModuleManager"
+		},
+		{
+			"name": "RFStockalike"
+		},
+		{
+			"name": "CommunityResourcePack"
+		},
+		{
+			"name": "SolverEngines"
+		},
+		{
+			"name": "KerbalEngineerRedux"
+		},
+		{
+			"name": "RealPlume"
+		},
+		{
+			"name": "RealPlume-StockConfigs"
+		},
+		{
+			"name": "EngineLighting"
+		},
+		{
+			"name": "SmokeScreen"
+		}
+	]
+}
