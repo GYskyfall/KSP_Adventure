@@ -1,3 +1,6 @@
+# virtual env of the project
+krpc-env/
+
 # emacs tmp files
 *~
 
