@@ -24,6 +24,7 @@ The following modules are added to KSP:
 - RemoteTech (RemoteTech v1.8.11)
 - SmokeScreen - Extended FX Plugin (SmokeScreen 2.8.0.0)
 - Solver Engines plugin (SolverEngines v3.6.2)
+- Kronal Vessel Viewer Continued (0.0.9.2)
 
 A ckan file is available in this repository.
 
